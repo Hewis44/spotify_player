@@ -132,9 +132,15 @@ Lets start designing PCB:
 THIS WAS SO SATISFYINGGGGGG
 
 
+![image](https://github.com/user-attachments/assets/a9ed80cc-ef31-4e8b-a0c8-e99b4970a400)
+
+![image](https://github.com/user-attachments/assets/b5af1454-5b38-4488-98da-290f17779335)
 
 
+I ALSO MADE SOME SILKSCREEN:
 
 
+![image](https://github.com/user-attachments/assets/e621b50e-7c59-4e34-92f5-3c226b225158)
 
 
+( I AM A TRUE AVIATION FAN BTW)
