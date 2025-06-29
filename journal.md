@@ -154,5 +154,10 @@ JLCPCB CART:
 ## DAY 2 - 29 JUNE - 6-8 Hours  ( CASE + CODE)
 
 
+![image](https://github.com/user-attachments/assets/0299d681-9f98-49b1-afd7-7c5d441a0070)
+
+![image](https://github.com/user-attachments/assets/de2a165c-9667-4bdf-acb7-e9d37740b200)
+
+![image](https://github.com/user-attachments/assets/90144c6e-034e-4756-83ec-6dc9bec81e91)
 
 
