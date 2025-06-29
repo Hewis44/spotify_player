@@ -8,7 +8,7 @@ Total time spent: 48-50 Hours
 
 
 
-DAY 1 - 28 JUNE - 9-10 Hours  ( research + schematics + PCB)
+## DAY 1 - 28 JUNE - 9-10 Hours  ( research + schematics + PCB)
 
 So I saw the Spotify Car Thing online and bro, it looked so clean. Minimal, functional, and honestly, just a vibe. But when I checked the price online, it was totally crazy — like ₹15,000 or more. Apparently they discontinued it, and now everyone is just reselling it for insane prices. That’s when I had this lightbulb moment — “Why not build it myself?”  and I’d been wanting to try a custom PCB build with some real-world use. That’s how this whole thing began.
 ![WhatsApp Image 2025-06-17 at 01 03 31_385429e6](https://github.com/user-attachments/assets/3b0595d0-bccb-4cde-b9a0-a05888e04cb2)
@@ -144,3 +144,15 @@ I ALSO MADE SOME SILKSCREEN:
 
 
 ( I AM A TRUE AVIATION FAN BTW)
+
+JLCPCB CART:
+
+
+![image](https://github.com/user-attachments/assets/0c6ed91d-b08f-4e99-84e0-afa45265252a)
+
+
+## DAY 2 - 29 JUNE - 6-8 Hours  ( CASE + CODE)
+
+
+
+
