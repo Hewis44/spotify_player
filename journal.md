@@ -8,7 +8,7 @@ Total time spent: 48-50 Hours
 
 
 
-DAY 1 - 28 JUNE - 6-7 Hours
+DAY 1 - 28 JUNE - 9-10 Hours  ( research + schematics + PCB)
 
 So I saw the Spotify Car Thing online and bro, it looked so clean. Minimal, functional, and honestly, just a vibe. But when I checked the price online, it was totally crazy — like ₹15,000 or more. Apparently they discontinued it, and now everyone is just reselling it for insane prices. That’s when I had this lightbulb moment — “Why not build it myself?”  and I’d been wanting to try a custom PCB build with some real-world use. That’s how this whole thing began.
 ![WhatsApp Image 2025-06-17 at 01 03 31_385429e6](https://github.com/user-attachments/assets/3b0595d0-bccb-4cde-b9a0-a05888e04cb2)
@@ -110,6 +110,30 @@ Two LEDs are here for quick debugging. One LED connected with 1k resistor to 3.3
 
 
 Extra GPIO headers are broken out here for sensors, I2C, SPI, etc. You can connect modules easily with female jumper wires. Makes this custom board usable in multiple projects very modular.
+
+
+
+
+FINAL circuit:
+
+
+![image](https://github.com/user-attachments/assets/2892b757-8f12-49f4-9b4d-2c31ff3febc8)
+
+
+
+Lets start designing PCB:
+
+
+
+![image](https://github.com/user-attachments/assets/34bc4d3d-56da-42ea-95ca-985978acfca7)
+
+
+
+THIS WAS SO SATISFYINGGGGGG
+
+
+
+
 
 
 
