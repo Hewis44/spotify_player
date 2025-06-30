@@ -3,7 +3,7 @@ Title: "A NFC Spotify player"
 Author: "Hewis44"
 Description: "Music controller"
 created_at: "2025-06-28"
-Total time spent: 48-50 Hours
+Total time spent: 15-18 Hours
 ---
 
 
