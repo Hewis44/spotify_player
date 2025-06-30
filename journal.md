@@ -156,13 +156,31 @@ JLCPCB CART:
 
 ![image](https://github.com/user-attachments/assets/0299d681-9f98-49b1-afd7-7c5d441a0070)
 
+
+
+
+ I spent almost 6 to 8 hours just sitting and fully focused on finishing the case design and writing the proper code for the Spotify player. Honestly, this day was both frustrating and satisfying. First, I started off by trying to adjust the dimensions properly for the 2.4 inch TFT display, 3 push buttons, 2 18650 batteries, and the NFC module. I made the box in Fusion 360, trying to keep everything tight but also spaced enough so wires don’t mess up later.
+
+
+
+
 ![image](https://github.com/user-attachments/assets/de2a165c-9667-4bdf-acb7-e9d37740b200)
+
+
+The top part of the case was a bit tricky. I had to make those 3 rectangular slots exactly matching the buttons I have, and I didn’t want them to be loose. Below that, I made a big recessed cut for the screen to sit flush inside – I wanted that modern, clean look. In the bottom right, I added a slot to hide the batteries or maybe even fit the ESP32/NFC module depending on wiring.
+
+
 
 ![image](https://github.com/user-attachments/assets/90144c6e-034e-4756-83ec-6dc9bec81e91)
 
 
-This is the final case and also ive worked on code and updaated in the repo
+Once the case design was done and rendered decently, I shifted to coding. The idea was to complete the Spotify logic – like showing the artist, song name, progress bar, and also reacting to button inputs. But the fun part was adding NFC support. That took time to debug, bro. I had to make sure when I tap the tag, it triggers next/previous/play-pause correctly and doesn’t double trigger. So I added delay and string comparison for UID. After testing everything multiple times, it finally worked. That feeling when the song changes with just a card tap – goosebumps only.
 
+So yeah, this day was all about making it feel real. From 3D designing the case like a product, to writing and polishing the full code with NFC magic it really came together.
+
+
+
+Ive added evrything in the rep :)
 
 
 
