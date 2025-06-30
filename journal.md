@@ -161,3 +161,8 @@ JLCPCB CART:
 ![image](https://github.com/user-attachments/assets/90144c6e-034e-4756-83ec-6dc9bec81e91)
 
 
+This is the final case and also ive worked on code and updaated in the repo
+
+
+
+
