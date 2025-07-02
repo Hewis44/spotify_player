@@ -163,15 +163,15 @@ JLCPCB CART:
 
 
 
+![Screenshot 2025-07-02 235820](https://github.com/user-attachments/assets/6f990396-fed3-4760-a1d5-9b2d6854673a)
 
-![image](https://github.com/user-attachments/assets/de2a165c-9667-4bdf-acb7-e9d37740b200)
 
 
 The top part of the case was a bit tricky. I had to make those 3 rectangular slots exactly matching the buttons I have, and I didn’t want them to be loose. Below that, I made a big recessed cut for the screen to sit flush inside – I wanted that modern, clean look. In the bottom right, I added a slot to hide the batteries or maybe even fit the ESP32/NFC module depending on wiring.
 
 
+![Screenshot 2025-07-02 235841](https://github.com/user-attachments/assets/a788b066-f118-4175-b6e4-9416072d8c94)
 
-![image](https://github.com/user-attachments/assets/90144c6e-034e-4756-83ec-6dc9bec81e91)
 
 
 Once the case design was done and rendered decently, I shifted to coding. The idea was to complete the Spotify logic – like showing the artist, song name, progress bar, and also reacting to button inputs. But the fun part was adding NFC support. That took time to debug, bro. I had to make sure when I tap the tag, it triggers next/previous/play-pause correctly and doesn’t double trigger. So I added delay and string comparison for UID. After testing everything multiple times, it finally worked. That feeling when the song changes with just a card tap – goosebumps only.
