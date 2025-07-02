@@ -51,6 +51,12 @@ Custom Case:
 
 
 
+FInal assembled and render model:
+
+![image](https://github.com/user-attachments/assets/8bec8837-89e2-4b0f-845e-995b953c41bf)
+
+![image](https://github.com/user-attachments/assets/332973ba-0b29-4e43-abbb-fc9908f303de)
+
 
 
 
