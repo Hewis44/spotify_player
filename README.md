@@ -27,11 +27,9 @@ Custom esp32:
 
 Custom Case:
 
-![Screenshot 2025-06-29 233933](https://github.com/user-attachments/assets/49960f1d-7479-42e8-a211-1f99ae93dae6)
+![image](https://github.com/user-attachments/assets/3dc52b39-108b-4e31-a988-efc88fdacee9)
 
-
-![Screenshot 2025-06-29 234041](https://github.com/user-attachments/assets/18508b7a-d42e-443b-b433-bfaa73dafc95)
-
+![image](https://github.com/user-attachments/assets/b95bc6ab-5c95-4caf-911c-c3a67364b09d)
 
 
 ## Bill of Materials (BOM)
