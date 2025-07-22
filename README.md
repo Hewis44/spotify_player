@@ -37,7 +37,7 @@ Custom Case:
 | Component                         | Qty | Price (USD) | Price (INR) | Store          | Link |
 |----------------------------------|-----|--------------|--------------|----------------|------|
 | Custom ESP32 PCB Prototype (5 pcs) | 5   | 14.60        | 1219.10      | JLC            | -    |
-| Custom ESP32 PCBA Assembled (2 pcs) | 2   | 83.85        | 7001.48      | JLC            | -    |
+| Custom ESP32 PCBA Assembled (2 pcs) | 2   |70      |6000    | JLC            | -    |
 | Shipping                          | 1   | 16.97        | 1416.99      | JLC            | -    |
 | PN532 NFC Module                  | 1   | 3.04         | 254.00       | Robocraze      | [Link](https://robocraze.com/products/nfc-near-field-communication-rf-id-v3-module?variant=40193169096857&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=21590308288&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=21586648451&gbraid=0AAAAADgHQvYmNBcrELJJmoBrlbc9qJGsq&gclid=Cj0KCQjwyIPDBhDBARIsAHJyyVija9jdBLYwi1AIBR4NGTak_4R1Fw639eS4X_mnjcoLhtqIzoUGwDgaAqa1EALw_wcB) |
 | 2.4" SPI TFT Display              | 1   | 5.54         | 463.00       | Robocraze      | [Link](https://robocraze.com/products/2-4in-tft-display-for-uno-board-compatible-with-arduino?srsltid=AfmBOooHw__J4xEGz5m5F3e8zxRdUqBesVLdjJFDkCUiQz60vcqm9rYM) |
@@ -45,7 +45,7 @@ Custom Case:
 | DSA Keycaps                      | 10  | 1.80         | 150.00       | Amazon         | [Link](https://www.amazon.in/MAXBELL-Keycaps-Switches-Mechanical-Keyboard/dp/B09GPQCRC5) |
 | NFC Cards                        | 5   | 3.00         | 260.00       | Amazon         | [Link](https://www.amazon.in/Cards-Works-Android-Blank-Printable/dp/B0DH4Q9GY9) |
 | 3D Prints                        | -   | -            | Have mine    | -              | -    |
-| **Total**                        |     | **131.80**   | **₹11014.57** |                |      |
+| **Total**                        |     | **117.8**   | **₹10173.008** |                |      |
 
 
 
