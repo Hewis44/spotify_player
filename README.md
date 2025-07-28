@@ -15,6 +15,17 @@ The device uses a 2.4-inch TFT display to show real-time song information like t
 ![image](https://github.com/user-attachments/assets/ad098cae-463c-4d6f-9648-c7cad6be31ff)
 
 
+
+## Update:
+---
+Motion-Reactive Animation: Dasai Mochi Bot
+
+---
+
+
+With the latest revision of the PCB, I’ve added an onboard MPU6050 accelerometer and gyroscope module. This opens the door to a brand new feature I call “Dasai Mochi Bot” – a cute, reactive animation engine that responds to motion and song titles.
+The MPU6050 detects physical movement too – so if you tilt or shake the device, Mochi responds accordingly (like reacting dizzy or resetting pose). These animations run smoothly on the 2.4" TFT using sprite-based rendering.
+
 Custom esp32:
 
 <img width="1233" height="519" alt="image" src="https://github.com/user-attachments/assets/5e9507c6-8429-433b-be1c-70defedaae08" />
