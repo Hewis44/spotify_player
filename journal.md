@@ -184,3 +184,11 @@ Ive added evrything in the rep :)
 
 
 
+## JUlY 28
+
+
+
+<img width="1741" height="781" alt="image" src="https://github.com/user-attachments/assets/f4eef2dc-e988-4cc5-a853-42e6eeef7544" />
+
+
+
