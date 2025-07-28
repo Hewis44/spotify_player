@@ -17,12 +17,13 @@ The device uses a 2.4-inch TFT display to show real-time song information like t
 
 Custom esp32:
 
-![Screenshot 2025-06-29 230803](https://github.com/user-attachments/assets/ccd1fb47-6fcc-4782-928d-e0e3c69e5803)
+<img width="1233" height="519" alt="image" src="https://github.com/user-attachments/assets/5e9507c6-8429-433b-be1c-70defedaae08" />
+
+<img width="1188" height="587" alt="image" src="https://github.com/user-attachments/assets/4597a585-2bfa-4579-a9d9-cd504d7ce93a" />
+
+<img width="1026" height="419" alt="image" src="https://github.com/user-attachments/assets/5c2f9377-7649-49a9-b50c-c30883cddfd6" />
 
 
-![Screenshot 2025-06-29 230819](https://github.com/user-attachments/assets/fcfbe474-e7a8-456a-89ed-86d769538cc0)
-
-![Screenshot 2025-06-29 230737](https://github.com/user-attachments/assets/053cebfa-227e-4df4-afd0-886c7b7ad784)
 
 
 Custom Case:
