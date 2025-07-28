@@ -35,22 +35,21 @@ Custom Case:
 
 ## Bill of Materials (BOM)
 
-| Component                           | Qty | Price (USD) | Price (INR) | Store         | Link |
-|------------------------------------|-----|--------------|-------------|---------------|------|
-| Custom ESP32 PCB Prototype (5 pcs) | 5   | $7.00        | ₹585        | JLCPCB        |  |
-| Custom ESP32 PCBA Assembled (2 pcs)| 2   | $58.05       | ₹4849       | JLCPCB        | |
-| Shipping                           | 1   | $11.20       | ₹936        | JLCPCB        | |
-| PN532 NFC Module                   | 1   | $3.04        | ₹254        | robocraze.in  | [Buy](https://robocraze.com/products/nfc-near-field-communication-rf-id-v3-module?variant=40193169096857) |
-| 2.4" SPI TFT Display               | 1   | $5.54        | ₹463        | robocraze.in  | [Buy](https://robocraze.com/products/2-4in-tft-display-for-uno-board-compatible-with-arduino) |
-| Kailh Silver Mechanical Switches   | 10  | $2.99        | ₹250        | cosmicbyte.in | [Buy](https://www.thecosmicbyte.com/product/kailh-mechanical-switches-for-swappable-keyboards-pack-of-10/?attribute_pa_switch-type=silver-switch) |
-| DSA Keycaps                        | 10  | $1.80        | ₹150        | amazon.in     | [Buy](https://www.amazon.in/MAXBELL-Keycaps-Switches-Mechanical-Keyboard/dp/B09GPQCRC5) |
-| NFC Cards                          | 5   | $3.00        | ₹260        | amazon.in     | [Buy](https://www.amazon.in/Cards-Works-Android-Blank-Printable/dp/B0DH4Q9GY9/) |
-| 3D Printed Case                    | —   | —            | —           | Self-Printed  | Have mine |
+| Component                           | Qty | Price (USD) | Price (INR) | Store         | Link                                                                                                                                              |
+| ----------------------------------- | --- | ----------- | ----------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Custom ESP32 PCB Prototype (5 pcs)  | 5   | **\$17.73** | ₹1480       | JLCPCB        | —                                                                                                                                                 |
+| Custom ESP32 PCBA Assembled (2 pcs) | 2   | **\$52.88** | ₹4412       | JLCPCB        | —                                                                                                                                                 |
+| Shipping (Estimated)                | 1   | **\$10.24** | ₹854        | JLCPCB        | —                                                                                                                                                 |
+| PN532 NFC Module                    | 1   | \$3.04      | ₹254        | robocraze.in  | [Buy](https://robocraze.com/products/nfc-near-field-communication-rf-id-v3-module?variant=40193169096857)                                         |
+| 2.4" SPI TFT Display                | 1   | \$5.54      | ₹463        | robocraze.in  | [Buy](https://robocraze.com/products/2-4in-tft-display-for-uno-board-compatible-with-arduino)                                                     |
+| Kailh Silver Mechanical Switches    | 10  | \$2.99      | ₹250        | cosmicbyte.in | [Buy](https://www.thecosmicbyte.com/product/kailh-mechanical-switches-for-swappable-keyboards-pack-of-10/?attribute_pa_switch-type=silver-switch) |
+| DSA Keycaps                         | 10  | \$1.80      | ₹150        | amazon.in     | [Buy](https://www.amazon.in/MAXBELL-Keycaps-Switches-Mechanical-Keyboard/dp/B09GPQCRC5)                                                           |
+| NFC Cards                           | 5   | \$3.00      | ₹260        | amazon.in     | [Buy](https://www.amazon.in/Cards-Works-Android-Blank-Printable/dp/B0DH4Q9GY9/)                                                                   |
+| 3D Printed Case                     | —   | —           | —           | Self-Printed  | Already made                                                                                                                                      |
 
 **🧾 Total Cost:**  
-- **USD:** $92.62  
-- **INR:** ₹7747 (approx.)
-
+- **USD:** $97.22
+- **INR:** ₹8133 (approx.)
 
 
 FInal assembled and render model:
