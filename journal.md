@@ -3,7 +3,7 @@ Title: "A NFC Spotify player"
 Author: "Hewis44"
 Description: "Music controller"
 created_at: "2025-06-28"
-Total time spent: 15-18 Hours
+Total time spent: 23 Hours
 ---
 
 
@@ -184,9 +184,30 @@ Ive added evrything in the rep :)
 
 
 
-## JUlY 28
+## JUlY 28 - Addon, Code -5 Hours
+
+After finishing the first version of the board, I felt pretty satisfied. But then Logan suggested that I should try adding a feature something that pushes it a bit beyond the basic stuff. And honestly, they were right. I didn’t want this project to just be another tutorial clone. I wanted it to actually do something interesting.
 
 
+<img width="153" height="143" alt="image" src="https://github.com/user-attachments/assets/a9833da7-eaa1-4bda-92af-cfaffe4782bb" />
+
+
+<img width="362" height="383" alt="image" src="https://github.com/user-attachments/assets/d16bbad2-cf0c-40b4-bad6-921b8c465c5e" />
+
+
+That’s when I thought of the MPU6050. It’s a 6-axis gyroscope and accelerometer, and adding it would give the board motion-sensing capabilities. That idea sounded super fun — like imagine controlling stuff with tilt or tracking movement, all directly from my own custom ESP32 board. So I went back to the schematic, placed the chip, wired up SDA and SCL for I2C, added proper power connections, and re-routed the board to fit everything cleanly. It actually turned out better than I expected, and now the board looks even more packed and powerful.
+
+<img width="784" height="402" alt="Screenshot 2025-07-28 224434" src="https://github.com/user-attachments/assets/7e0d1a21-9f22-4589-9dc2-516754dd979b" />
+
+
+
+<img width="1188" height="587" alt="Screenshot 2025-07-28 221751" src="https://github.com/user-attachments/assets/e15f15dc-d30b-4ec8-8b86-45e5c5b33333" />
+
+
+
+<img width="1233" height="519" alt="Screenshot 2025-07-28 221732" src="https://github.com/user-attachments/assets/98cca8f9-d663-4e02-90d3-db13d690a26a" />
+
+ALso i wrote some code for some animations based on gyro movements ( i used mpu library )
 
 <img width="1741" height="781" alt="image" src="https://github.com/user-attachments/assets/f4eef2dc-e988-4cc5-a853-42e6eeef7544" />
 
